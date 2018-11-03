@@ -8,3 +8,6 @@ The functions perfomed by our ML/AI model are:
 3. Demo - of the object detection and multiple card transaction using face recognition
 
 An extension to this repo will be activity tracking using LSTM and CNN.
+
+## Demo
+![Alt text](https://github.com/shivangchopra11/InfyHack/blob/master/Demo.gif)
