@@ -3,11 +3,11 @@ This repository contains the code to the features incorporated in ML/AI challeng
 
 The functions perfomed by our ML/AI model are:
 
-1. Face Recognition - Using FaceNet and haar cascade
+1. Face Recognition - Using FaceNet and haar cascades
 2. Weapon and Skimming Device Detection - using Fast-RCNN
-3. Demo - of the object detection and multiple card transaction using face recognition
+3. Helmet and Sunglass Detection - using CNN and haar cascades
 
-An extension to this repo will be activity tracking using LSTM and CNN.
+An extension to this will be anomalous activity tracking using LSTM and CNN.
 
 ## Demo
 ![Alt text](https://github.com/shivangchopra11/InfyHack/blob/master/Demo.gif)
